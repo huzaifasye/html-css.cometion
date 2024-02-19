@@ -48,14 +48,4 @@
     color: #ffffff;
     border-radius: 100px;
 }
-.img{
-    display: flex;
-    justify-content: end;
-    width: 100%;
-    height: auto;
-}
 
-.line{
-    border: 1px solid black;
-
-}
